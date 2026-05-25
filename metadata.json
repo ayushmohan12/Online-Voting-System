@@ -1,0 +1,6 @@
+{
+  "name": "Online Voting System",
+  "description": "A secure web-based electronic voting platform designed for the BCA 6th Semester project at Advance Institute of Science and Technology, Dehradun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
